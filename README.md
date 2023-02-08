@@ -6,5 +6,5 @@ I'm looking for exciting and challenging projects where I can apply my skills.
 
 Tech: Kotlin, Java, Compose, Jetpack, Firebase, MVVM
 
-LinkedIn: https://www.linkedin.com/in/ymysochenko/
+LinkedIn: https://www.linkedin.com/in/ymysochenko/ \
 Contact: https://sdex.dev/contact
