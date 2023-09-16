@@ -1,7 +1,7 @@
 🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦
 
 ### Hi there 👋
-### I'm Yuriy.
+### My name is Yuriy.
 
 I'm a professional software developer with more than a decade of experience developing native Android applications. \
 I'm looking for exciting and challenging projects where I can apply my skills.
