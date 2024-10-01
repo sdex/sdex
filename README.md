@@ -3,8 +3,7 @@
 ### Hi there 👋
 ### My name is Yuriy.
 
-I'm a professional software developer with more than a decade of experience developing native Android applications. \
-I'm looking for exciting and challenging projects where I can apply my skills.
+I'm a professional software developer with over a decade of experience developing native Android applications. \
 
 Tech: Kotlin, Java, Compose, Jetpack, Firebase, MVVM
 
