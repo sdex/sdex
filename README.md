@@ -1,7 +1,7 @@
 🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦
 
 ### Hi there 👋
-### My name is Yuriy.
+### My name is Yurii.
 
 I'm a professional software developer with over a decade of experience developing native Android applications. \
 
