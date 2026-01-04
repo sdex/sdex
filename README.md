@@ -3,7 +3,7 @@
 ### Hi there 👋
 ### My name is Yurii.
 
-I'm a professional software developer with over a decade of experience developing native Android applications. \
+I'm a professional software developer with over a decade of experience developing native Android applications. 
 
 Tech: Kotlin, Java, Compose, Jetpack, Firebase, MVVM
 
